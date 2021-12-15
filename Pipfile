@@ -10,6 +10,12 @@ name = "pypi"
 Django = "*"
 "psycopg2-binary" = "*"
 gunicorn = "*"
+asyncio = "*"
+aiohttp = "*"
+requests = "*"
+djangorestframework = "*"
+fake_useragent = "*"
+pandas = "*"
 
 
 [dev-packages]
